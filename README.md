@@ -7,7 +7,6 @@ I'm a ✨ Java Full Stack Developer ✨ with over 10 years of experience partici
 ### Skills
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![J2EE](https://img.shields.io/badge/-J2EE-05122A?style=flat&logo=J2EE)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
@@ -17,7 +16,6 @@ I'm a ✨ Java Full Stack Developer ✨ with over 10 years of experience partici
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)
 
 ### My Stats
 
