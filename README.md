@@ -19,7 +19,7 @@ I'm a ✨ Java Full Stack Developer ✨ with over 10 years of experience partici
 
 ### My Stats
 
-<p align="center">
+<p>
 <a href="https://github.com/jsh-allen">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jsh-allen&layout=compact&langs_count=8&theme=algolia"/>
