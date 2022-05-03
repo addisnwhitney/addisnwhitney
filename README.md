@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a ✨ Java Full Stack Developer ✨ with over 10 years of experience participating in the complete product development lifecycle of successfully launched applications. I have hands-on professional experience in Java, J2EE, Spring (Boot, Cloud, Security, WS), Hibernate/JPA, JavaScript, React, Angular, HTML, CSS, MySQL, Oracle, AWS, Microservices, RESTful & SOAP API development, etc.
+I'm a ✨ Java full stack developer ✨ with 10+ years of experience participating in web and Android mobile applications. I have hands-on professional experience in Java, J2EE, Spring (Boot, Cloud, Security, WS), Hibernate/JPA, JavaScript, React, Angular, HTML/CSS, MySQL, and Kotlin, Android SDK, etc.
 
-🔭 In my previous roles, migrated monolithic applications into microservices, developed greenfield products using cloud-native and microservice architecture, refactored code base to increase maintainability, and resolved a performance bottleneck that increased application performance. I also implemented hundreds of different integrations: JWT, OAuth, HL7, FHIR, Zoho CRM, eBay API, Amazon S3, Twilio, QuickBooks, Authorize.net, HubSpot, etc.
+Especially, I have been specializing in back-end development for the last 7 years, focussing my career around providing solutions for financial systems that have given me a deep understanding of how to create systems that can handle concurrent requests, big loads of work, are reconcilable and can recover from catastrophic events.
+
+I am open to new projects both individually and in teamwork.
 
 ### Skills
 
