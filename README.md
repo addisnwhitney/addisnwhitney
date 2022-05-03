@@ -4,8 +4,6 @@ I'm a ✨ Java full stack developer ✨ with 10+ years of experience participati
 
 Especially, I have been specializing in back-end development for the last 7 years, focussing my career around providing solutions for financial systems that have given me a deep understanding of how to create systems that can handle concurrent requests, big loads of work, are reconcilable and can recover from catastrophic events.
 
-I am open to new projects both individually and in teamwork.
-
 ### Skills
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
