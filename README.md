@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a ✨ Java full stack developer ✨ with 10+ years of experience participating in web and Android mobile applications. I have hands-on professional experience in Java, J2EE, Spring (Boot, Cloud, Security, WS), Hibernate/JPA, JavaScript, React, Angular, HTML/CSS, SQL, Kubernetes, Docker, Git, CI/CD, DevOps, AWS, etc.
+I'm a ✨ Java full stack developer ✨ with 10+ years of experience participating in web and Android mobile applications. I have hands-on professional experience in Java, J2EE, Spring (Boot, Cloud, Security, WS), Hibernate/JPA, JavaScript, React, Angular, HTML/CSS, SQL, Kubernetes, Docker, Git, CI/CD, DevOps, AWS, and more.
 
-Especially, I have been specializing in back-end development for the last 7 years, focusing my career around providing solutions for financial systems that have given me a deep understanding of how to create systems that can handle concurrent requests, big loads of work, are reconcilable and can recover from catastrophic events.
+Specifically, I have specialized in back-end development for the last 7 years, focusing my career on providing solutions for financial systems that have given me a deep understanding of how to create systems that can handle concurrent requests and big loads of work.
+
+I've also solved nearly every type of use case imaginable in Java-based architecture and can advise and collaborate with architects to ensure that the right decisions and implementations are taken into account.
+
+I am consistent, competent, communicative, and complete in my pattern of work. I am willing to work on jobs of any size if you need my help.
 
 ### My Stats
 
