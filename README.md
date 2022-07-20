@@ -1,4 +1,4 @@
-### Hi there 👋
+## About Me
 
 I'm a ✨ Java full stack developer ✨ with 10+ years of experience participating in web and Android mobile applications. I have hands-on professional experience in Java, J2EE, Spring (Boot, Cloud, Security, WS), Hibernate/JPA, JavaScript, React, Angular, HTML/CSS, SQL, Kubernetes, Docker, Git, CI/CD, DevOps, AWS, and more.
 
@@ -8,7 +8,7 @@ I've also solved nearly every type of use case imaginable in Java-based architec
 
 I am consistent, competent, communicative, and complete in my pattern of work. I am willing to work on jobs of any size if you need my help.
 
-### My Stats
+## My Stats
 
 <p>
 <a href="https://github.com/owenall">
