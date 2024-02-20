@@ -4,6 +4,17 @@ I've been working with websites for more than 10 years as a Full Stack JavaScrip
 
 Besides the technical stuff, I'm great at working with a team. I like talking to my teammates, using tools like Git to manage our code, and making sure we all understand what we're doing. I use tools like Slack and Jira to keep everything organized, and I'm always ready to share ideas and help the team reach our goals.
 
+## Skills
+
+- HTML5, CSS, JavaScript, TypeScript
+- Bootstrap, MUI, Tailwind CSS
+- React, Redux, Next.js, Gatsby.js
+- Node.js, Express, NestJS
+- MongoDB, MySQL, PostgreSQL
+- RESTful API, GraphQL
+- AWS, Heroku, Vercel
+- Git, Jira, Trello, Asana
+
 ## My Stats
 
 <p>
