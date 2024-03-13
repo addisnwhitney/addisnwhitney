@@ -18,8 +18,8 @@ Besides the technical stuff, I'm great at working with a team. I like talking to
 ## My Stats
 
 <p>
-<a href="https://github.com/addisnwhitney">
+<a href="https://github.com/addisonwhitney18">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addisnwhitney&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addisonwhitney18&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
